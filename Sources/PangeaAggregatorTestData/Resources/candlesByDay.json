@@ -1,0 +1,58 @@
+[
+  {
+    "interval": "Day",
+    "provider": "All",
+    "chain": 0,
+    "start_time": 1724630400,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "open": 2769.967286192965,
+    "high": 4315.04164772342,
+    "low": 2342.3234243357315,
+    "close": 2748.0835251829235,
+    "volume": 90146.15770094753
+  },
+  {
+    "interval": "Day",
+    "provider": "All",
+    "chain": 0,
+    "start_time": 1724716800,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "open": 2751.531985684849,
+    "high": 2996.8509628569427,
+    "low": 578.113997203087,
+    "close": 2680.182213995244,
+    "volume": 142063.94011236733
+  },
+  {
+    "interval": "Day",
+    "provider": "All",
+    "chain": 0,
+    "start_time": 1724803200,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "open": 2680.414006533947,
+    "high": 2977.19540607405,
+    "low": 0.009676295099774582,
+    "close": 2449.9821240152087,
+    "volume": 228868.48147335145
+  },
+  {
+    "interval": "Day",
+    "provider": "All",
+    "chain": 0,
+    "start_time": 1724889600,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "open": 2456.6035263399235,
+    "high": 4623.723490970515,
+    "low": 1791.4343576415215,
+    "close": 2524.2303133503956,
+    "volume": 205408.58215682392
+  }
+]
