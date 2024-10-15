@@ -52,7 +52,7 @@ Adding this as a dependency to an XCode-based project is more complicated. The p
 
 You should use this package URL:
 
-<git@github.com:PangeaFoundation/pioneer-client.git>
+`git@github.com:PangeaFoundation/pioneer-client.git`
 
 ## Usage
 
