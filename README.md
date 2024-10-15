@@ -46,6 +46,14 @@ Then add the dependency to your target:
         dependencies: ["PangeaAggregator"]),
 ```
 
+Adding this as a dependency to an XCode-based project is more complicated. The process is described here:  
+
+<https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app>
+
+You should use this package URL:
+
+<git@github.com:PangeaFoundation/pioneer-client.git>
+
 ## Usage
 
 The main object in this package is the `PangeaAggregatorClient`.  Here is the initializer:
